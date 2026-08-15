@@ -89,7 +89,7 @@ DocuMind is a RAG (Retrieval-Augmented Generation) SaaS platform that lets you u
 | File Storage | AWS S3 |
 | Document Parsing | unpdf, mammoth, officeparser |
 
-
+---
 
 ## 📁 Project Structure
 
@@ -112,6 +112,7 @@ src/
 ├── s3.ts # AWS S3 upload + signed URLs
 └── supabase.ts # Supabase client
 
+---
 
 ## ⚙️ Setup
 
