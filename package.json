@@ -9,12 +9,26 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.1065.0",
+    "@aws-sdk/s3-request-presigner": "^3.1065.0",
+    "@pinecone-database/pinecone": "^7.2.0",
+    "@supabase/supabase-js": "^2.107.0",
+    "csv-parse": "^6.2.1",
+    "llamaindex": "^0.12.1",
+    "mammoth": "^1.12.0",
+    "multer": "^2.1.1",
     "next": "16.2.7",
+    "officeparser": "^7.2.1",
+    "openai": "^6.42.0",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "unpdf": "^1.6.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/multer": "^2.1.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
